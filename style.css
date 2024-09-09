@@ -1,0 +1,12 @@
+.font{
+    font-family: "Comic Sans", "Times New Roman", sans-serif;
+    background-color: yellow;
+}
+#title{
+    color: white;
+    background-color: red;
+}
+.link{/*Not sure how you are supposed to edit the link colours yet*/
+    background-color: white;
+}
+
